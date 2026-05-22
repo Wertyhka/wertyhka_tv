@@ -240,7 +240,7 @@ https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5
 
 #EXTINF:0,Карусель
 #EXTGRP:Федеральные
-https://server.musical.uz/tv/karusel_web/tracks-v1a1/mono.m3u8?remote=0.0.0.0&token=cf28d4b9a1631ead69714edc06dd4a254205778f-e88014c4f7805dc0af89f3e73c81fdbf-1779194861-1779184061
+https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,СПАС
 #EXTGRP:Федеральные
@@ -407,13 +407,20 @@ http://46.32.176.50/mirseriala/index.m3u8
 
 #EXTINF:1,Мосфильм. Золотая коллекция
 #EXTGRP:Кино
-http://188.225.31.197/bpk-tv/000006365/tve/000006365-audio_82882_rus=82400-video=2137600.m3u8
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 
+
+#EXTINF:0,Родное Кино
+#EXTGRP:Кино
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Кино тв
 #EXTGRP:Кино
 http://vod.tuva.ru/kinotv/index.m3u8
 
+#EXTINF:0,viju TV1000
+#EXTGRP:Кино
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 
 #EXTINF:1,Ретро
 #EXTGRP:Кино
@@ -424,6 +431,9 @@ http://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTGRP:Кино
 http://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 
+#EXTINF:0,НСТ
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/HCTV/video.m3u8
 
 
 
@@ -439,7 +449,7 @@ http://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 
 
-#EXTINF:0,Первый туристический
+#EXTINF:0,Первый туристический канал
 #EXTGRP:Познавательные
 http://91.186.196.185/hls/hotels/stream.m3u8
 
