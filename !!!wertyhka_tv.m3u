@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1,
-#EXTGRP:Плейлист тестового просмотра / ._.._.2025 /некоторые каналы не доступны  или ограничены по времени просмотра/
+#EXTGRP:Плейлист тестового просмотра / ._.._.2026 /некоторые каналы не доступны или ограничены по времени просмотра/
 
 
 
@@ -406,67 +406,20 @@ http://46.32.176.50/mirseriala/index.m3u8
 #EXTGRP:Кино
 http://188.225.31.197/bpk-tv/000006365/tve/000006365-audio_82882_rus=82400-video=2137600.m3u8
 
-#EXTINF:1,Мосфильм. Золотая коллекция
-#EXTGRP:Кино
-http://188.190.222.53/Mosfilm/index.m3u8
 
-#EXTINF:1,Мосфильм. Золотая коллекция
+#EXTINF:0,Кино тв
 #EXTGRP:Кино
-http://178.217.72.66:8080/mosfilm/index.m3u8
+http://vod.tuva.ru/kinotv/index.m3u8
 
-#EXTINF:0,Родное кино
-#EXTGRP:Кино
-http://178.217.72.66:8080/RodnoeKino/index.m3u8
 
 #EXTINF:1,Ретро
 #EXTGRP:Кино
-http://stream2.cinerama.uz/1047/tracks-v1a1/mono.m3u8
+http://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 
-#EXTINF:1,Ретро
-#EXTGRP:Кино
-rtmp://5.182.231.251//2018
-
-#EXTINF:1,Ретро
-#EXTGRP:Кино
-http://185.23.80.26:8080/lb/Retro/index.m3u8
-
-
-#EXTINF:0,Иллюзион+
-#EXTGRP:Кино
-http://live.admuspeh.my/8134/index.m3u8?token=iptvshared
-
-#EXTINF:0,Русский Иллюзион
-#EXTGRP:Кино
-http://live.admuspeh.my/8132/index.m3u8?token=iptvshared
-
-#EXTINF:0,Кинопоказ
-#EXTGRP:Кино
-http://live.admuspeh.my/8139/index.m3u8?token=iptvshared
 
 #EXTINF:0,Техно 24
 #EXTGRP:Кино
-http://stream2.cinerama.uz/1037/tracks-v1a1/mono.m3u8
-
-#EXTINF:0,ТВОЕ ТВ
-#EXTGRP:Кино
-http://84.38.180.145:8080/tvoetv/mpegts
-
-#EXTINF:0,CINEMA
-#EXTGRP:Кино
-http://188.113.190.15/212/tracks-v1a1/index.m3u8
-
-#EXTINF:0,CINEMA
-#EXTGRP:Кино
-http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
-
-#EXTINF:0,FAN HD
-#EXTGRP:Кино
-http://live.admuspeh.my/8386/index.m3u8?token=iptvshared
-
-#EXTINF:0,FAN HD
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=smart tv
-http://hlss.goodgame.ru/hls/157239.m3u8
+http://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0,FilmBox
@@ -474,188 +427,13 @@ http://hlss.goodgame.ru/hls/157239.m3u8
 http://81.7.108.21:9000/play/FilmBox-DVBC330-sti4400019110542
 
 
-#EXTINF:-1,КИТАЙ ТВ
-#EXTGRP:Кино
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/playlist.m3u8
-
-#EXTINF:-1,Дорама
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=smart tv
-http://ott-cdn.ucom.am/s95/04.m3u8
-
-#EXTINF:-1,Дорама
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=smart tv
-http://188.113.190.15/233/tracks-v1a1/index.m3u8
-
-#EXTINF:0,Мужское кино
-#EXTGRP:Кино
-https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
-
-#EXTINF:0,Мужское кино
-#EXTGRP:Кино
-http://188.113.190.15/316/video.m3u8
-
-
-#EXTINF:0,Мужское кино
-#EXTGRP:Кино
-https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
-
-#EXTINF:0,Кинопремьера
-#EXTGRP:Кино
-https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
-
-#EXTINF:0,Кинопремьера
-#EXTGRP:Кино
-http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
-
-#EXTINF:0,Киносерия
-#EXTGRP:Кино
-https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
-
-#EXTINF:0,Киносерия
-#EXTGRP:Кино
-http://188.113.190.15/312/video.m3u8
-
-#EXTINF:0,Индия
-#EXTGRP:Кино
-https://stream01.vnet.am/ZeeTV/mono.m3u8
-
-#EXTINF:0,Индия
-#EXTGRP:Кино
-http://live.admuspeh.my/8155/index.m3u8?token=iptvshared
-
-#EXTINF:0,Индийское кино
-#EXTGRP:Кино
-https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
-
 #EXTINF:0,Индийское кино
 #EXTGRP:Кино
 http://mfe01.cliptv.az/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
 
-#EXTINF:0,Киносвидание
-#EXTGRP:Кино
-https://strm.yandex.ru/kal/kinosvidanie_belarus/kinosvidanie_belarus0.m3u8
-
-#EXTINF:0,Киносвидание
-#EXTGRP:Кино
-https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-
-#EXTINF:0,Киносемья
-#EXTGRP:Кино
-https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
-
-#EXTINF:0,Киносемья
-#EXTGRP:Кино
-https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-
-#EXTINF:0,Киномикс
-#EXTGRP:Кино
-https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
-
-#EXTINF:0,Киномикс
-#EXTGRP:Кино
-https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-
-#EXTINF:0,Кинохит
-#EXTGRP:Кино
-https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
-
-#EXTINF:0,Кинохит
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=smart tv
-https://cdn-cache01.voka.tv/live/70-req_offset_28000000-req_window_0-3k_v5.m3u8
-
-#EXTINF:0,Киноужас
-#EXTGRP:Кино
-http://ott-cdn.ucom.am/s87/04.m3u8
-
-#EXTINF:0,Киноужас
-#EXTGRP:Кино
-http://91.197.104.34:8080/Kinouzhas/video.m3u8
-
-#EXTINF:0,Кинокомедия
-#EXTGRP:Кино
-https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
-
-#EXTINF:0,Кинокомедия
-#EXTGRP:Кино
-https://cdn-cache01.voka.tv:443/live/2116.m3u8
 
 
 
-#EXTINF:0,Родное кино
-#EXTGRP:Кино
-http://31.148.48.15:80/Rodnoe_kino/index.m3u8?token=wertyhka_tv
-
-#EXTINF:0,Родное кино
-#EXTGRP:Кино
-https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
-
-#EXTINF:0,Кино тв
-#EXTGRP:Кино
-http://live.admuspeh.my/8207/index.m3u8?token=iptvshared
-
-#EXTINF:0,Кино тв
-#EXTGRP:Кино
-http://vod.tuva.ru/kinotv/index.m3u8
-
-#EXTINF:0,Кино тв
-#EXTGRP:Кино
-http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
-
-#EXTINF:0,Кино тв +4
-#EXTGRP:Кино
-http://live-3.otcnet.ru/kinotvplus4/index.m3u8
-
-#EXTINF:-1,Trash HD
-#EXTGRP:Кино
-http://livetv.mylifeisgood.net.ru/channels/trash.m3u8
-
-#EXTINF:-1,НСТ
-#EXTGRP:Кино
-http://stream01.vnet.am/Channel_125/playlist.m3u8
-
-#EXTINF:-1,НСТ
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=
-http://live.admuspeh.my/8165/index.m3u8?token=iptvshared
-
-#EXTINF:-1,• Red
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=smart tv
-http://91.205.199.3/red/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,• Black
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=smart tv
-http://91.205.199.3/black/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,• Sci-Fi
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=smart tv
-http://91.205.199.3/scifi/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,A1
-#EXTGRP:Кино
-http://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd
-
-#EXTINF:-1,A1
-#EXTGRP:Кино
-https://sc.id-tv.kz/A1_34_35.m3u8
-
-
-#EXTINF:-1,A2
-#EXTGRP:Кино
-http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
-
-#EXTINF:-1,A2
-#EXTGRP:Кино
-https://sc.id-tv.kz/A2_34_35.m3u8
-
-#EXTINF:-1,Amedia Premium
-#EXTGRP:Кино
-http://live.admuspeh.my/8215/index.m3u8?token=iptvshared
 
 
 
