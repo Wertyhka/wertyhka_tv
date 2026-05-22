@@ -12,7 +12,7 @@
 https://stream.maxssw.com/hhq/live/chunklist.m3u8
 
 
-EXTINF:-1 tvg-id="Perviy_turisticheskiy" tvg-name="Первый туристический",Первый туристический
+#EXTINF:-1 tvg-id="1-turisticheskiy" tvg-name="Первый туристический",Первый туристический 
 #EXTGRP:Мы в Telegram! "https://t.me/Iptvwertyhka"
 http://91.186.196.185/hls/hotels/stream.m3u8
 
