@@ -7,11 +7,14 @@
 
 
 
-
 #EXTINF:-1,Инфо канал HHQ
 #EXTGRP:Мы в Telegram! "https://t.me/Iptvwertyhka"
 https://stream.maxssw.com/hhq/live/chunklist.m3u8
 
+
+#EXTINF:-1,Первый Туристический
+#EXTGRP:Мы в Telegram! "https://t.me/Iptvwertyhka"
+http://91.186.196.185/hls/hotels/stream.m3u8
 
 #EXTINF:-1,ТЕЛЕДОМ
 #EXTGRP:Мы в Telegram! "https://t.me/Iptvwertyhka"
@@ -271,18 +274,18 @@ https://kino-1.catcast.tv/content/37739/index.m3u8
 
 #EXTINF:-1,Жар Птица 
 #EXTGRP:Музыка
-http://46.163.149.25:9981/stream/channelid/1659775643?profile=pass
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=2r54ZPgnc2r3TX_Z4F-zEg&e=2070623526&scheme=https
 
 #EXTINF:-1,Жар Птица 
 #EXTGRP:Музыка
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 
 
-#EXTINF:-1,RUTV
+#EXTINF:-1,РУ ТВ
 #EXTGRP:Музыка
-http://live.admuspeh.my/8185/index.m3u8?token=iptvshared
+http://5.188.159.128:8070/rutv/index.m3u8
 
-#EXTINF:-1,RUTV
+#EXTINF:-1,РУ ТВ
 #EXTGRP:Музыка
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 
@@ -422,14 +425,7 @@ http://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 http://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0,FilmBox
-#EXTGRP:Кино
-http://81.7.108.21:9000/play/FilmBox-DVBC330-sti4400019110542
 
-
-#EXTINF:0,Индийское кино
-#EXTGRP:Кино
-http://mfe01.cliptv.az/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
 
 
 
@@ -442,6 +438,10 @@ http://mfe01.cliptv.az/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
 #EXTGRP:Познавательные
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 
+
+#EXTINF:0,Первый Туристический
+#EXTGRP:Познавательные
+http://91.186.196.185/hls/hotels/stream.m3u8
 
 #EXTINF:0,RTG HD
 #EXTGRP:Познавательные
@@ -459,9 +459,17 @@ https://stream8.cinerama.uz/1247/tracks-v1a1/playlist.m3u8
 #EXTGRP:Познавательные
 http://194.143.148.28:8080/Nauka20/mpegts
 
-#EXTINF:0,Поехали
+#EXTINF:0,Поехали!
 #EXTGRP:Познавательные
 https://fs.uplink.kz/poehali/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
+#EXTINF:0,Точка.РФ
+#EXTGRP:Познавательные
+http://158.101.222.193:88/georgia_play.php?id=hdlife
+
+
+
+
 
 #EXTINF:0,Глазами туриста
 #EXTGRP:Познавательные
@@ -488,35 +496,6 @@ http://ott-cdn.ucom.am/s20/03.m3u8
 #EXTINF:0,Наша Сибирь
 #EXTGRP:Познавательные
 http://strm.yandex.ru/kal/sibir/sibir0.m3u8
-
-#EXTINF:0,HD Life
-#EXTGRP:Познавательные
-http://live.admuspeh.my/8175/index.m3u8?token=iptvshared
-
-#EXTINF:0,Viasat Nature
-#EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=smart tv
-http://live.admuspeh.my/8087/index.m3u8?token=iptvshared
-
-
-#EXTINF:0,Viasat Explore
-#EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=smart tv
-http://live.admuspeh.my/8085/index.m3u8?token=iptvshared
-
-
-#EXTINF:0,Discovery
-#EXTGRP:Познавательные
-http://live.admuspeh.my/8076/index.m3u8?token=iptvshared
-
-#EXTINF:0,National Geographic
-#EXTGRP:Познавательные
-http://live.admuspeh.my/8080/index.m3u8?token=iptvshared
-
-#EXTINF:0,Nat Geo WILD
-#EXTGRP:Познавательные
-http://live.admuspeh.my/8079/index.m3u8?token=iptvshared
-
 
 #EXTINF:-1,365 Дней ТВ
 #EXTGRP:Познавательные
@@ -566,6 +545,9 @@ http://live.admuspeh.my/8104/index.m3u8?token=iptvshared
 http://ott-cdn.ucom.am/s98/04.m3u8
 
 
+-------------------------------------------------------------
+
+
 #EXTINF:-1,Дикая рыбалка HD
 #EXTGRP:Рыбалка
 http://185.78.112.47:8077/DikayaRybalkaHD/index.m3u8
@@ -573,11 +555,6 @@ http://185.78.112.47:8077/DikayaRybalkaHD/index.m3u8
 #EXTINF:-1,Охота и Рыбалка
 #EXTGRP:Рыбалка
 http://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Рыбалка и Охота
-#EXTGRP:Познавательные
-https://bkm.beetv.kz/btv/live/hls/000002510.m3u8
-
 
 #EXTINF:-1,Охотник и рыболов 
 #EXTGRP:Рыбалка
@@ -592,32 +569,9 @@ https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Qz
 #EXTGRP:Рыбалка
 https://live-3.otcnet.ru/nashatema/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1,555 Охотник и Рыболов ТВ 
-#EXTGRP:Познавательные
-http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 
+-------------------------------------------------------------
 
-
-#EXTINF:-1,Диалоги о рыбалке
-#EXTGRP:Познавательные
-https://bkm.beetv.kz/btv/live/hls/000003174.m3u8
-
-
-#EXTINF:-1,Дикий
-#EXTGRP:Познавательные
-http://185.193.88.10/iptv/D8E2H3EU6R29MA/847/index.m3u8
-
-
-
-
-#EXTINF:-1,Дикая рыбалка HD
-#EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/variant.m3u8?version=2&hd
-
-
-#EXTINF:-1,Дикая охота HD
-#EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/zgAfVQ6zAsYIyWvrQ4qqWA,1748811610/streaming/ohotahd/324/1/tracks-v3a1/mono.m3u8
 
 
 #EXTINF:0,Детское кино International
@@ -666,15 +620,7 @@ http://hlss.goodgame.ru/hls/198446.m3u8
 
 #EXTINF:0,Мульт
 #EXTGRP:Детские
-http://live.admuspeh.my/8157/index.m3u8?token=iptvshared
-
-#EXTINF:0,Мульт
-#EXTGRP:Детские
 http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
-
-#EXTINF:0,Мультиландия
-#EXTGRP:Детские
-https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
 
 #EXTINF:0,Мультиландия
 #EXTGRP:Детские
@@ -683,104 +629,6 @@ http://31.148.48.15/Multilandiya/index.m3u8?token=test
 #EXTINF:0,Солнце
 #EXTGRP:Детские
 http://tv.mediacdn.ru/live/disney/playlist.m3u8
-
-#EXTINF:0,КарУсель
-#EXTGRP:Детские
-https://bkm.beetv.kz/btv/live/hls/000000781.m3u8
-
-#EXTINF:0,КарУселЬ
-#EXTGRP:Детские
-https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
-
-#EXTINF:0,Рыжий
-#EXTGRP:Детские
-https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
-
-#EXTINF:0,Рыжий
-#EXTGRP:Детские
-http://ott-cdn.ucom.am/s57/index.m3u8
-
-
-#EXTINF:0,Уникум
-#EXTGRP:Детские
-http://live.admuspeh.my/8067/index.m3u8?token=iptvshared
-
-#EXTINF:0,Уникум
-#EXTGRP:Детские
-http://31.148.48.15/Detskiy/index.m3u8
-
-
-#EXTINF:0,Детский Мир
-#EXTGRP:Детские
-https://bkm.beetv.kz/btv/live/hls/000000049.m3u8
-
-#EXTINF:0,Детский Мир
-#EXTGRP:Детские
-http://ott-cdn.ucom.am/s58/04.m3u8
-
-
-#EXTINF:0,Капитан Фантастика
-#EXTGRP:Детские
-http://live.admuspeh.my/8321/index.m3u8?token=iptvshared
-
-
-#EXTINF:0,2X2
-#EXTGRP:Детские
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
-
-
-#EXTINF:0,2X2
-#EXTGRP:Детские
-http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
-
-#EXTINF:0,Ani
-#EXTGRP:Детские
-http://31.148.48.15/Ani/tracks-v1a1/mono.m3u8?token=test
-
-
-#EXTINF:0,Tiji
-#EXTGRP:Детские
-http://live.admuspeh.my/8110/index.m3u8?token=iptvshared
-
-#EXTINF:0,Gulli Girl
-#EXTGRP:Детские
-http://live.admuspeh.my/8097/index.m3u8?token=iptvshared
-
-
-#EXTINF:0,СТС Kids 
-#EXTGRP:Детские
-http://45.159.74.13/DisneyChannel/mono.m3u8
-
-#EXTINF:0,СТС Kids 
-#EXTGRP:Детские
-http://89.104.114.32:8080/sts_kids/mono.m3u8?token=DWEvjhKS3G
-
-#EXTINF:0,Лёва
-#EXTGRP:Детские
-http://strm.yandex.ru/kal/leva/leva0.m3u8
-
-#EXTINF:0,Baby Time
-#EXTGRP:Детские
-http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
-
-
-#EXTINF:0,Kids FM
-#EXTGRP:Детские
-https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63
-
-
-#EXTINF:0,Alpha Anime
-#EXTGRP:Детские
-http://195.9.195.3:8080/hls/205115.m3u8
-
-#EXTINF:0,Alpha Anime
-#EXTGRP:Детские
-https://nl2.live-stream.plus.taurer.org:443/DNgXtq6mxU/RE9bedFwGP/12.m3u8
-
-#EXTINF:0,Bunny HD
-#EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=
-http://baefb22b.ucomist.net/iptv/56E8HVDHBARKLQ/14239/index.m3u8
 
 
 
@@ -813,7 +661,7 @@ https://luch.iptv2022.com/tracks-v3a1/mono.m3u8
 #EXTINF:0,ТСВ
 #EXTGRP:Регион
 #EXTVLCOPT:http-user-agent=smart tv
-https://tsv.md/stream/hls/tsv-online/index.m3u8
+https://tsv.md/stream/hls/tsv-online/tracks-v2a1/index.m3u8
 
 
 #EXTINF:0,Истоки
@@ -846,11 +694,28 @@ http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTGRP:Регион
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 
+#EXTINF:-1,Мир Белогорья
+#EXTGRP:Регион
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 
 
-#EXTINF:0,Ляминор
-#EXTGRP:Музыка
-http://live.admuspeh.my/8101/index.m3u8?token=iptvshared
+#EXTINF:-1,Мтв Волгоград
+#EXTGRP:Регион
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+
+#EXTINF:-1,ОТВ Сахалин
+#EXTGRP:Регион
+https://sakh.online/hls/stream.m3u8
+
+
+#EXTINF:-1,Ника тв 
+#EXTGRP:Регион
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/tracks-v1a1/mono.m3u8?hls_proxy_host=eccfed78b7e7483ac1ac4de244dd07cd
+
+
+
+
+
 
 
 #EXTINF:0,Шансон ТВ
@@ -905,10 +770,6 @@ https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1058653171_b750000.m3u8
 
 
-#EXTINF:0,NOW 80 'S
-#EXTGRP:Музыка
-https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/cb553d1a736c648f99d43e60d5ef41a6da24d2b02a6f9e6c33f6058870df1f499de59192b940ff1b3cfa0fa1021a6c513267a418ce20589c8b6ad500676c68178af0ab6ba8d95255e7bf5a7851ea3e0157fe0c0bd13b562299a13120b1109935451fe1026b161588be02f26f42a3d548c82676d5b2dc61277d4a22c00f04b9f541a2fb905945db7cc2e04a19d7765ae18240d7d50eaf89dc5c9b468572a009cec3f0dece1183d3c77ea002b7654459747cc8832c95cc5eb2dc9e5b39f60940c7b5c884d9f1cb7d7eeb724d55ecfacfff56eb12da8c36f3185dd92eb93f49b41709d06489ee5cb4a5fbfe4f442badc75a1b47ea85f2cc93bd54cce53e594d9df35eb98f8c4bc40c96cc1a8b72ffdcc61196ca1697f9008dbd6a1c3fcfab95faf752e2c2bf97439029cb88a1d66d02066a34038206e2b95dee69f24be89f431e0c7215ed965ccf83997331610fa9b31eec5a5b98cb9b8fda393ec84b124ea73689094b3d82613c3cad06d1ae1140c566068c3e38bb7f308349f3f16cc3a2c9f60f34bb919612b13faf9805d0ff0eac226d0d23e7a27f1f764d7bd1fc6f426629910bb5a1a78b14002fdf85abaf906c6838686d2e66eec3f760978bb24c3c06d15f231a1019279700940feb014b0c2bdd14b1fa5f6ce4e640ab0126e43b0ec8ae7cbe0663400cb5bd5013329453/66/1280x720_3801600/index.m3u8
-
 #EXTINF:-1,ТНТ Music
 #EXTGRP:Музыка
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
@@ -960,7 +821,7 @@ https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
 
 #EXTINF:-1,Bridge TV Deluxe
 #EXTGRP:Музыка
-http://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
 
 #EXTINF:-1,Bridge TV Deluxe
 #EXTGRP:Музыка
@@ -968,16 +829,11 @@ https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
 
 #EXTINF:-1,Bridge TV Classic
 #EXTGRP:Музыка
-http://live.admuspeh.my/8450/index.m3u8?token=iptvshared
+http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 
 #EXTINF:-1,Bridge TV Classic
 #EXTGRP:Музыка
 https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
-
-
-#EXTINF:-1,МУЗ ТВ
-#EXTGRP:Федеральные
-http://live.admuspeh.my/8190/index.m3u8?token=iptvshared
 
 #EXTINF:-1,МуЗ ТВ
 #EXTGRP:Музыка
@@ -985,102 +841,10 @@ https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 
 
 
-#EXTINF:-1,TV 1000 
-#EXTGRP:Кино
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000East_HD_ad.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=I4wMSyar1hEGi2-tF99vBQ&e=1721799208&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-
-#EXTINF:-1,TV 1000 
-#EXTGRP:Кино
-https://edge02.smart.az/o5/tv1000/playlist.m3u8
-
-#EXTINF:-1,TV 1000 
-#EXTGRP:Кино
-https://sc.id-tv.kz:443/TV1000_34_35.m3u8
-
-#EXTINF:-1,TV 1000 Action
-#EXTGRP:Кино
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=73dWSeeSnpoZzzSc2kjIbg&e=1721798966&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-
-#EXTINF:-1,TV 1000 Action
-#EXTGRP:Кино
-https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
-
-#EXTINF:-1,TV 1000 Action
-#EXTGRP:Кино
-https://sc.id-tv.kz/TV1000Action_34_35.m3u8
-
-#EXTINF:-1,TV 1000 Русское кино
-#EXTGRP:Кино
-https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
-
-#EXTINF:-1,TV 1000 Русское кино
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=smart tv
-http://tv.streams.baikal-telecom.net:8080/TV1000RuKino/mpegts
-
-
-#EXTINF:-1,TV 1000 Русское кино
-#EXTGRP:Кино
-https://sc.id-tv.kz:443/TV1000RuKino_34_35.m3u8
-
-#EXTINF:-1,VIP Premiere
-#EXTGRP:Кино
-http://live.admuspeh.my/8119/index.m3u8?token=iptvshared
-
-#EXTINF:-1,VIP Premiere
-#EXTGRP:Кино
-https://livetv.mylifeisgood.net.ru/channels/vip_premiere.m3u8
-
-#EXTINF:-1,VIP Megahit
-#EXTGRP:Кино
-http://live.admuspeh.my/8109/index.m3u8?token=iptvshared
-
-#EXTINF:-1,VIP Megahit
-#EXTGRP:Кино
-https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
-
-
-#EXTINF:-1,VIP Comedy
-#EXTGRP:Кино
-http://live.admuspeh.my/8108/index.m3u8?token=iptvshared
-
-#EXTINF:-1,VIP Comedy
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=smart tv
-http://188.113.190.15/203/video.m3u8
-
-#EXTINF:-1,VIP Serial
-#EXTGRP:Кино
-http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
-
-#EXTINF:-1,VIP Serial
-#EXTGRP:Кино
-https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8
-
-#EXTINF:-1,Мир Белогорья
-#EXTGRP:Регион
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-
-
-#EXTINF:-1,Мтв Волгоград
-#EXTGRP:Регион
-http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-
-#EXTINF:-1,ОТВ Сахалин
-#EXTGRP:Регион
-https://sakh.online/hls/stream.m3u8
-
-
-#EXTINF:-1,Ника тв 
-#EXTGRP:Регион
-https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/tracks-v1a1/mono.m3u8?hls_proxy_host=eccfed78b7e7483ac1ac4de244dd07cd
-
 
 
 #EXTINF:0,Старт
 #EXTGRP:Спорт
-
-
 
 
 
@@ -1092,17 +856,21 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w14
 
 
 
-#EXTINF:-1, group-title="Wertyhka TV! /Кинозал ТВ/" tvg-logo="https://s3.gifyu.com/images/20230216_045503-1.gif", КиноЧат! (смотрим кино и общаемся)
-#EXTVLCOPT:http-user-agent=smart tv
-http://ix.goodgame.ru:8080/hls/5346.m3u8
+
+
+#EXTINF:0,Смотрим 100% Классика
+#EXTGRP:Wertyhka TV! /Кинозал ТВ/
+https://stream.smotrim.ru/hls/fasttv03/playlist_2.m3u8
 
 
 
-#EXTINF:0,Твое ТВ
+
+
+#EXTINF:0,Твоё ТВ
 #EXTGRP:Wertyhka TV! /Кинозал ТВ/
 http://tvoetv.space:8080/tvoetv/index.m3u8
 
-#EXTINF:0,Твое ТВ HD - ЮМОР
+#EXTINF:0,Твоё ТВ HD - ЮМОР
 #EXTGRP:Wertyhka TV! /Кинозал ТВ/
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
