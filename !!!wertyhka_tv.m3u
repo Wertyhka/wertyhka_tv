@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/EPG,http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml"
+#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml"
 
 
 
@@ -448,10 +448,21 @@ http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTGRP:Познавательные
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 
+#EXTINF:0,Поехали!
+#EXTGRP:Познавательные
+https://fs.uplink.kz/poehali/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
-#EXTINF:0,Первый туристический канал
+#EXTINF:0,Первый Туристический 
 #EXTGRP:Познавательные
 http://91.186.196.185/hls/hotels/stream.m3u8
+
+#EXTINF:0,Глазами Туриста
+#EXTGRP:Познавательные
+https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,RTG TV
+#EXTGRP:Познавательные
+http://hls127.freeott.top:8080/RTG_TV/video.m3u8
 
 #EXTINF:0,RTG HD
 #EXTGRP:Познавательные
@@ -465,13 +476,21 @@ http://93.84.115.174:10181/myplanet
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1247/tracks-v1a1/playlist.m3u8
 
-#EXTINF:0,Моя Планета
+#EXTINF:0,Моя Планета HD
 #EXTGRP:Познавательные
-http://194.143.148.28:8080/Nauka20/mpegts
+http://185.46.16.239:8000/Planeta_HD
 
-#EXTINF:0,Поехали!
+#EXTINF:0,Живая Планета 
 #EXTGRP:Познавательные
-https://fs.uplink.kz/poehali/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://185.46.16.239:8000/Zhivaya_Planeta
+
+#EXTINF:0,В Мире Животных
+#EXTGRP:Познавательные
+https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Точка.РФ
+#EXTGRP:Познавательные
+https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Точка.РФ
 #EXTGRP:Познавательные
@@ -481,9 +500,7 @@ http://158.101.222.193:88/georgia_play.php?id=hdlife
 
 
 
-#EXTINF:0,Глазами туриста
-#EXTGRP:Познавательные
-https://bkm.beetv.kz/btv/live/hls/000001414.m3u8
+
 
 
 #EXTINF:0,Загородная жизнь
@@ -552,7 +569,7 @@ http://live.admuspeh.my/8104/index.m3u8?token=iptvshared
 
 #EXTINF:-1,Наука 2.0
 #EXTGRP:Познавательные
-http://ott-cdn.ucom.am/s98/04.m3u8
+http://hls127.freeott.top:8080/NAUKA/video.m3u8
 
 
 -------------------------------------------------------------
@@ -561,6 +578,10 @@ http://ott-cdn.ucom.am/s98/04.m3u8
 #EXTINF:-1,Дикая рыбалка HD
 #EXTGRP:Рыбалка
 http://185.78.112.47:8077/DikayaRybalkaHD/index.m3u8
+
+#EXTINF:-1,Диалоги о рыбалке
+#EXTGRP:Рыбалка
+http://217.174.229.136:8000/play/a08w
 
 #EXTINF:-1,Охота и Рыбалка
 #EXTGRP:Рыбалка
@@ -595,6 +616,10 @@ https://stream.smotrim.ru/hls/fasttv05/playlist_2.m3u8
 #EXTINF:0,Детский Мир
 #EXTGRP:Детские
 http://93.84.115.174:10181/detskimir
+
+#EXTINF:0,Мульт
+#EXTGRP:Детские
+http://46.32.176.50/MultHD/index.m3u8
 
 #EXTINF:0,Уникум
 #EXTGRP:Детские
@@ -856,6 +881,10 @@ https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:0,Старт
 #EXTGRP:Спорт
 
+
+#EXTINF:0,Матч!
+#EXTGRP:Спорт
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/720/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
 
 
