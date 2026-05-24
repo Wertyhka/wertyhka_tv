@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_lite.xml.gz"
+#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_lite.xml.gz,https://iptvx.one/EPG_LITE"
 
 
 
@@ -7,21 +7,19 @@
 
 
 
-#EXTINF:-1,HHQ
+#EXTINF:-1 tvg-id="HHQ" tvg-name="HHQ",Инфо Канал
 #EXTGRP:Мы в Telegram! "https://t.me/Iptvwertyhka"
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=hfzZQUONoQgTZy2wNJ1C0g&e=2079605801&scheme=https
 
-
-#EXTINF:-1 tvg-id="1-turisticheskiy" tvg-name="Первый туристический канал",Первый туристический канал 
-#EXTGRP:Мы в Telegram! "https://t.me/Iptvwertyhka"
-http://91.186.196.185/hls/hotels/stream.m3u8
 
 #EXTINF:-1,ТЕЛЕДОМ
 #EXTGRP:Мы в Telegram! "https://t.me/Iptvwertyhka"
 #EXTVLCOPT:http-user-agent=android 11
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8?hls_proxy_host=eccfed78b7e7483ac1ac4de244dd07cd
 
-
+#EXTINF:-1 tvg-id="1-turisticheskiy" tvg-name="Первый туристический канал",Первый туристический канал 
+#EXTGRP:Мы в Telegram! "https://t.me/Iptvwertyhka"
+http://91.186.196.185/hls/hotels/stream.m3u8
 
 #EXTINF:-1,Первый Российский Национальный Канал
 #EXTGRP:Мы в Telegram! "https://t.me/Iptvwertyhka"
