@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_lite.xml.gz"
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-#EXTINF:-1,HHQ   |Инфо канал|
+#EXTINF:-1,HHQ
 #EXTGRP:Мы в Telegram! "https://t.me/Iptvwertyhka"
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=hfzZQUONoQgTZy2wNJ1C0g&e=2079605801&scheme=https
 
