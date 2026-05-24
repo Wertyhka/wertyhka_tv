@@ -7,9 +7,9 @@
 
 
 
-#EXTINF:-1,Инфо канал HHQ
+#EXTINF:-1,HHQ  /Инфо канал/
 #EXTGRP:Мы в Telegram! "https://t.me/Iptvwertyhka"
-https://stream.maxssw.com/hhq/live/chunklist.m3u8
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=hfzZQUONoQgTZy2wNJ1C0g&e=2079605801&scheme=https
 
 
 #EXTINF:-1 tvg-id="1-turisticheskiy" tvg-name="Первый туристический канал",Первый туристический канал 
@@ -501,6 +501,10 @@ http://cdn.kubteltv.workers.dev/index.m3u8?ID=352
 #EXTGRP:Кино
 http://vod.tuva.ru/kinotv/index.m3u8
 
+#EXTINF:0,Кинопоказ 
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+
 #EXTINF:0,viju TV1000
 #EXTGRP:Кино
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
@@ -522,13 +526,15 @@ http://cdn.kubteltv.workers.dev/index.m3u8?ID=364
 #EXTGRP:Кино
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=354
 
+#EXTINF:0,Start Air
+#EXTGRP:Кино
+http://cdn.kubteltv.workers.dev/index.m3u8?ID=372
+
 #EXTINF:0,Start World
 #EXTGRP:Кино
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=371
 
-#EXTINF:0,Start Air
-#EXTGRP:Кино
-http://cdn.kubteltv.workers.dev/index.m3u8?ID=372
+
 
 
 
@@ -597,6 +603,10 @@ https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
 #EXTGRP:Познавательные
 http://158.101.222.193:88/georgia_play.php?id=hdlife
 
+#EXTINF:-1,365 Дней ТВ
+#EXTGRP:Познавательные
+http://158.101.222.193:88/georgia_play.php?id=365day
+
 
 
 
@@ -625,9 +635,6 @@ http://ott-cdn.ucom.am/s20/03.m3u8
 #EXTGRP:Познавательные
 http://strm.yandex.ru/kal/sibir/sibir0.m3u8
 
-#EXTINF:-1,365 Дней ТВ
-#EXTGRP:Познавательные
-http://live.admuspeh.my/8068/index.m3u8?token=iptvshared
 
 #EXTINF:-1,Арсенал
 #EXTGRP:Познавательные
@@ -700,8 +707,8 @@ https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Qz
 
 #EXTINF:-1,Наша Тема
 #EXTGRP:Рыбалка
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://live-3.otcnet.ru/nashatema/index.m3u8
+#EXTVLCOPT:http-user-agent=smart tv
+http://live-3.otcnet.ru/nashatema/index.m3u8
 
 
 -------------------------------------------------------------
@@ -749,6 +756,10 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTGRP:Детские
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
+
+#EXTINF:0,MM Walt Disney
+#EXTGRP:Детские
+http://176.100.46.245:90/WaltDisney/index.m3u8
 
 #EXTINF:0,В Гостях у Сказки
 #EXTGRP:Детские
@@ -927,7 +938,7 @@ https://livetv.mylifeisgood.net.ru/channels/tntmusicru.m3u8
 
 #EXTINF:-1,Bridge TV
 #EXTGRP:Музыка
-http://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+http://hls127.freeott.top:8080/BRIDGE_TV/video.m3u8
 
 #EXTINF:-1,Bridge TV
 #EXTGRP:Музыка
@@ -1002,6 +1013,10 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 #EXTGRP:Спорт
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=3
 
+#EXTINF:0,Футбол
+#EXTGRP:Спорт
+http://hls127.freeott.top:8080/Football/video.m3u8
+
 #EXTINF:0,Беларусь 5
 #EXTGRP:Спорт
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w1499356362_b1460000_sleng.m3u8
@@ -1015,21 +1030,55 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w14
 #EXTGRP:Wertyhka TV! /Кинозал ТВ/
 https://stream.smotrim.ru/hls/fasttv03/playlist_2.m3u8
 
-
-
-
-
 #EXTINF:0,Твоё ТВ
 #EXTGRP:Wertyhka TV! /Кинозал ТВ/
 http://tvoetv.space:8080/tvoetv/index.m3u8
 
-#EXTINF:0,Твоё ТВ HD - ЮМОР
+#EXTINF:0,Твоё ТВ ЮМОР
 #EXTGRP:Wertyhka TV! /Кинозал ТВ/
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
-#EXTINF:0,Смотрим 100% Классика
+#EXTINF:0,MyTV
 #EXTGRP:Wertyhka TV! /Кинозал ТВ/
-https://stream.smotrim.ru/hls/fasttv03/playlist_2.m3u8
+http://hls127.freeott.top:8080/MyTV/video.m3u8
+
+#EXTINF:0,CPS Action
+#EXTGRP:Wertyhka TV! /Кинозал ТВ/
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+
+#EXTINF:0,CPS Fresh
+#EXTGRP:Wertyhka TV! /Кинозал ТВ/
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+
+#EXTINF:0,CPS Comedy
+#EXTGRP:Wertyhka TV! /Кинозал ТВ/
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+
+#EXTINF:0,CPS Drama
+#EXTGRP:Wertyhka TV! /Кинозал ТВ/
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+
+#EXTINF:0,CPS Detective
+#EXTGRP:Wertyhka TV! /Кинозал ТВ/
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+
+#EXTINF:0,CPS Fiction
+#EXTGRP:Wertyhka TV! /Кинозал ТВ/
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+
+
+#EXTINF:0,CPS Cartoon
+#EXTGRP:Wertyhka TV! /Кинозал ТВ/
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:0,ТВ BOOM
