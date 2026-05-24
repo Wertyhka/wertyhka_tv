@@ -1024,7 +1024,7 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w14
 
 
 
-#EXTINF:-1 tvg-id="nash-kinomir" tvg-name="Наш КиноМир", Наш КиноМир
+#EXTINF:-1 tvg-id="nash-kinomir" tvg-name="Nash Kinomir", Наш КиноМир
 #EXTGRP:Wertyhka TV! /Кинозал ТВ/
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 
