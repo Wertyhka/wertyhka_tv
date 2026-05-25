@@ -85,7 +85,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
 #EXTGRP:Федеральные
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=7
 
-#EXTINF:-1,Россия 24 (+2)
+#EXTINF:-1,Россия 24 +2
 #EXTGRP:Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia24-sd/index.m3u8
 
@@ -98,7 +98,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTGRP:Федеральные
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=6
 
-#EXTINF:-1,Россия Культура (+2)
+#EXTINF:-1,Россия Культура +2
 #EXTGRP:Федеральные
 https://player.smotrim.ru/iframe/stream/live_id/60881
 
@@ -164,6 +164,11 @@ https://fs.uplink.kz/ntv_mir/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:0,НТВ 
 #EXTGRP:Федеральные
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=4
+
+#EXTINF:0,НТВ +2
+#EXTGRP:Федеральные
+#EXTVLCOPT:http-user-agent=smart tv
+https://cdn.ntv.ru/ntv2_sd/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,НТВ HD
 #EXTGRP:Федеральные
@@ -342,7 +347,7 @@ https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 
 #EXTINF:-1,Музыка Первого
 #EXTGRP:Музыка
-http://live.admuspeh.my/8135/index.m3u8?token=iptvshared
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,Music Box Gold
@@ -571,7 +576,7 @@ http://hls127.freeott.top:8080/RTG_TV/video.m3u8
 
 #EXTINF:0,RTG HD
 #EXTGRP:Познавательные
-https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/3/index.m3u8
+http://185.78.112.47:8077/rtg_hd/index.m3u8
 
 #EXTINF:0,Моя Планета
 #EXTGRP:Познавательные
@@ -960,7 +965,7 @@ https://livetv.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
 
 #EXTINF:-1,Bridge TV Русский Хит
 #EXTGRP:Музыка
-http://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+http://193.25.8.59:8000/rusong
 
 #EXTINF:-1,Bridge TV Русский Хит
 #EXTGRP:Музыка
