@@ -113,7 +113,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:0,ОТР
 #EXTGRP:Федеральные
-https://edge01d.mediavitrina.ru/hls-livef1/otr_0/tracks-v4a1/mono.m3u8?token=v2.z3sOOYGOvdmIUhfh-oJxyvmaUwfAIV8H4ddglz_rYVU.lyA13kDOuPNdPGXTCfhc3enGce1ZAMT-0UeeQPLFTqE.1779787204.a257d7f4a2cfc2edd67dfa7174b1ba71
+https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=8aTVleMQXzYBXlyakSSNZw&e=2080987953&scheme=https
 
 #EXTINF:0,Звезда
 #EXTGRP:Федеральные
@@ -205,10 +205,6 @@ http://cdn2.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 
 #EXTINF:0,Пятый канал
 #EXTGRP:Федеральные
-https://edge01r.mediavitrina.ru/hls-livef7/5tv/tracks-v4a1/mono.m3u8?token=v2.4DC2JZh1Cs7UQ_26xTt8v6_96Y0v4UHgi6XpldzauRs.keQqgshy5l_nHaPPhI6F5sqEy8BGC9dzeg0dfIzx12w.1779781964.edce7c63125478739a6a2f0f7901573a
-
-#EXTINF:0,Пятый канал
-#EXTGRP:Федеральные
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=5
 
 #EXTINF:0,ТВЦ
@@ -220,25 +216,15 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTGRP:Федеральные
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=10
 
-#EXTINF:-1,Рен ТВ HD 
-#EXTGRP:Федеральные
-https://edge01d.mediavitrina.ru/hls-livef1/ren-tv/tracks-v4a1/mono.m3u8?token=v2.R1T-ZV8YHBv10ZJGSQvat03hxenPllfiM_mGz9Y8sXA.gTBtIdfg1lVGYlSpXNE5s_EhUVxFGepbERBrOAu93zs.1779781678.4a8812c80852605126e6c2c7ff776bb3
 
 #EXTINF:-1,Рен ТВ 
 #EXTGRP:Федеральные
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=11
 
-#EXTINF:-1,ТВ3
-#EXTGRP:Федеральные
-https://edge02r.mediavitrina.ru/hls-livef8/tv3/tracks-v4a1/mono.m3u8?token=v2.CBX3ZcnbvU4pLzQ_mGDFtuxRfKFSZ-CvMJ7Cnu4-BS0.RIr3GsXjw-WbXqmYJqvqW69fhHbM-bsaD2LagjTKrgY.1779785874.8d8f52ff141e33d7c12dfcd4d7a6fed0
 
 #EXTINF:-1,ТВ3
 #EXTGRP:Федеральные
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=379
-
-#EXTINF:-1,СТС
-#EXTGRP:Федеральные
-https://edge02r.mediavitrina.ru/hls-livef1/ctc/tracks-v4a1/mono.m3u8?token=v2.jx5SL2kk1SnbuZafIEGECMeXGZvBjUwiBQa-apdgsq4.1rzp6fR6d4m6WQwayHxfCY65CG4VY6V5_9NWJWEoAxY.1779783580.6e22a61f0d273e04c909e671fd860630
 
 
 #EXTINF:-1,СТС
@@ -249,25 +235,16 @@ http://cdn.kubteltv.workers.dev/index.m3u8?ID=377
 #EXTGRP:Федеральные
 http://158.101.222.193:88/georgia_play.php?id=ctctv
 
-#EXTINF:-1,ТНТ
-#EXTGRP:Федеральные
-https://edge01d.mediavitrina.ru/hls-livef8/tnt/tracks-v4a1/mono.m3u8?token=v2.EWiz62yGhbB_x_Whd9sQxlx7cuzbPWFGEqVrMMAsbN0.DKXcThTR3F7sW5PQfvjKAI88O3jicq11CRycKTeSA8k.1779783006.83421b68eb12deb2cdfc2e81e3fa1c4e
 
 #EXTINF:-1,ТНТ
 #EXTGRP:Федеральные
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=19
 
-#EXTINF:-1,Домашний
-#EXTGRP:Федеральные
-https://edge01d.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v4a1/mono.m3u8?token=v2.qZN8VecpPcW1lFW7FV9pwgnVuY4JRdkcrDILMV-BAGY.Gdc3OZRb4V4DiSw_kfARtL0F3OCflw7pg9tIZ-xKHU4.1779783389.4aab54400079c66df8b6294e0a9f5491
 
 #EXTINF:-1,Домашний
 #EXTGRP:Федеральные
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=378
 
-#EXTINF:0,Пятница HD
-#EXTGRP:Федеральные
-https://edge02d.mediavitrina.ru/hls-livef8/friday/tracks-v4a1/mono.m3u8?token=v2.71mHij1ruUOds_nLhpoo-vv3Uste511pFGfQKXkKPuM.q-0LRWE2PUyljzsA95n7-fILAArBFNHZpBrQgI5WjZE.1779785691.938981597b8c9ce4ff08129440a62479
 
 #EXTINF:0,Пятница HD
 #EXTGRP:Федеральные
@@ -338,7 +315,7 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 
 #EXTINF:-1,RU.TV
 #EXTGRP:Музыка
-http://5.188.159.128:8070/rutv/index.m3u8
+https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,RU.TV
 #EXTGRP:Музыка
@@ -690,6 +667,10 @@ http://live.admuspeh.my/8104/index.m3u8?token=iptvshared
 #EXTINF:-1,Дикая рыбалка HD
 #EXTGRP:Рыбалка
 http://185.78.112.47:8077/DikayaRybalkaHD/index.m3u8
+
+#EXTINF:-1,Дикая рыбалка HD
+#EXTGRP:Рыбалка
+http://91.221.252.12:82/tv50
 
 #EXTINF:-1,Диалоги о рыбалке
 #EXTGRP:Рыбалка
